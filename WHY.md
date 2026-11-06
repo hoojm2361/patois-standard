@@ -1,10 +1,10 @@
-**# Why this matters**
+﻿**# Why this matters**
 
 
 
-**Deepgram transcribes Jamaican Patois with roughly 30–40% word error**
+**Deepgram transcribes Jamaican Patois with roughly 30ÔÇô40% word error**
 
-**rate. Whisper base is worse — above 50% on accented speech. The**
+**rate. Whisper base is worse ÔÇö above 50% on accented speech. The**
 
 **bottleneck is not the model; it's the training data.**
 
@@ -14,7 +14,7 @@
 
 **consistent labels. Right now, every diaspora writer spells Patois**
 
-**differently. That's a feature of our community, not a bug — but it**
+**differently. That's a feature of our community, not a bug ÔÇö but it**
 
 **means an ASR model can't learn "this audio = this text" reliably.**
 
@@ -44,15 +44,15 @@
 
 
 
-**- \*\*5 weeks\*\*, roughly 1–2 hours per week**
+**- \*\*5 weeks\*\*, roughly 1ÔÇô2 hours per week**
 
 **- \*\*Week 1\*\*: submit 20 Patois sentences in your own natural spelling**
 
-**- \*\*Weeks 2–3\*\*: participate in Discussions and vote on proposals**
+**- \*\*Weeks 2ÔÇô3\*\*: participate in Discussions and vote on proposals**
 
 **- \*\*Week 4\*\*: one 60-minute video call**
 
-**- \*\*Week 5+\*\*: optional — apply the standard to correct Kumbala**
+**- \*\*Week 5+\*\*: optional ÔÇö apply the standard to correct Kumbala**
 
 &#x20; **transcriptions, which becomes training data**
 
@@ -82,7 +82,7 @@
 
 **Email me at \[your-email@example.com] or reply to the WhatsApp group.**
 
-**You don't need to be a linguist — I'm looking for a mix of dialect**
+**You don't need to be a linguist ÔÇö I'm looking for a mix of dialect**
 
 **speakers, writers, poets, educators, and linguists. If you write**
 
